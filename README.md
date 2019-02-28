@@ -1,6 +1,6 @@
 # Playlist Project
 
-## Overview: 
+## Overview:
 
 ## Day 1
 ### Planning
